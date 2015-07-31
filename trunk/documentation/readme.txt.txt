@@ -1,0 +1,1 @@
+For documentation, please visit http://support.inventive3d.com/documentation/inventive_lottery/

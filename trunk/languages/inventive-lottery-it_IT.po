@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventive lotteries and giveaways\n"
+"POT-Creation-Date: 2015-07-16 10:28+0100\n"
+"PO-Revision-Date: 2015-07-16 10:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: 1nventive <info@inventive3d.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../scripts/jquery-ui.min.js:8
+msgid "'"
+msgstr ""
+
+#: ../admin/insert-lotteries-calendar.php:25 ../admin/insert.php:191
+#: ../admin/list-questions.php:63 ../admin/list.php:24
+#: ../admin/lotteries-calendar.php:106 ../inventive-lottery.php:717
+msgid "Inventive lottery"
+msgstr "Inventive lotteries and giveways"
+
+#: ../admin/insert-lotteries-calendar.php:27 ../inventive-lottery.php:675
+msgid "Insert lottery in calendar"
+msgstr "Inserisci lotteria in calendario"
+
+#: ../admin/insert-lotteries-calendar.php:36
+#: ../admin/lotteries-calendar.php:114 ../admin/metabox.php:10
+msgid "Lottery"
+msgstr "Lotteria"
+
+#: ../admin/insert-lotteries-calendar.php:61
+msgid "Start date"
+msgstr "Data d'inizio"
+
+#: ../admin/insert-lotteries-calendar.php:73
+msgid "End date"
+msgstr "Data fine"
+
+#: ../admin/insert-lotteries-calendar.php:86
+msgid "Repeat for"
+msgstr "Ripeti per"
+
+#: ../admin/insert-lotteries-calendar.php:95
+msgid "days"
+msgstr "giorni"
+
+#: ../admin/insert-lotteries-calendar.php:114
+msgid "Winner"
+msgstr "Vincitore"
+
+#: ../admin/insert-lotteries-calendar.php:115
+msgid "Prize"
+msgstr "Premio"
+
+#: ../admin/insert-lotteries-calendar.php:116
+msgid "Date"
+msgstr "Data"
+
+#: ../admin/insert-lotteries-calendar.php:149
+msgid "Download winners result"
+msgstr "Scarica risultati vincenti"
+
+#: ../admin/insert-questions.php:28
+msgid "Insert question"
+msgstr "Inserisci domanda"
+
+#: ../admin/insert-questions.php:37 ../admin/list-questions.php:71
+msgid "Question"
+msgstr "Domanda"
+
+#: ../admin/insert-questions.php:45
+msgid "User has to check correct answer?"
+msgstr "L'utente deve selezionare la risposta esatta?"
+
+#: ../admin/insert-questions.php:56
+msgid "If answer is wrong finish lottery?"
+msgstr "Se la risposta è errata interrompi la lotteria?"
+
+#: ../admin/insert-questions.php:68
+msgid "Answer"
+msgstr "Risposta"
+
+#: ../admin/insert-questions.php:75
+msgid "Answer "
+msgstr "Risposta"
+
+#: ../admin/insert-questions.php:88
+msgid "Image"
+msgstr "Immagine"
+
+#: ../admin/insert-questions.php:92
+msgid "Choose image"
+msgstr "Scegli immagine"
+
+#: ../admin/insert-questions.php:93 ../admin/insert.php:224
+msgid "insert an url or load an image"
+msgstr "Inserisci un url o carica un'immagine"
+
+#: ../admin/insert.php:15
+msgid "Monday"
+msgstr "Lunedì"
+
+#: ../admin/insert.php:15
+msgid "Tuesday"
+msgstr "Martedì"
+
+#: ../admin/insert.php:15
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+#: ../admin/insert.php:15
+msgid "Thursday"
+msgstr "Giovedì"
+
+#: ../admin/insert.php:15
+msgid "Friday"
+msgstr "Venerdì"
+
+#: ../admin/insert.php:15
+msgid "Saturday"
+msgstr "Sabato"
+
+#: ../admin/insert.php:15
+msgid "Sunday"
+msgstr "Domenica"
+
+#: ../admin/insert.php:193
+msgid "insert lottery"
+msgstr "inserisci lotteria"
+
+#: ../admin/insert.php:196
+msgid "Main infos"
+msgstr "Informazioni principali"
+
+#: ../admin/insert.php:197
+msgid "Main config"
+msgstr "Configurazione generale"
+
+#: ../admin/insert.php:198 ../admin/insert.php:251
+msgid "Linked prizes"
+msgstr "Premi collegati"
+
+#: ../admin/insert.php:199 ../admin/insert.php:410
+msgid "Participation mode"
+msgstr "Modalità di partecipazione"
+
+#: ../admin/insert.php:200
+msgid "Email settings"
+msgstr "Impostazioni email"
+
+#: ../admin/insert.php:201
+msgid "Conditions settings"
+msgstr "Impostazioni condizioni"
+
+#: ../admin/insert.php:212 ../admin/list.php:32
+msgid "Title"
+msgstr "Titolo"
+
+#: ../admin/insert.php:219
+msgid "image"
+msgstr "immagine"
+
+#: ../admin/insert.php:223
+msgid "insert image"
+msgstr "inserisci immagine"
+
+#: ../admin/insert.php:231
+msgid "description"
+msgstr "descrizione"
+
+#: ../admin/insert.php:255
+msgid "Search page, product or coupon to assign as prize"
+msgstr "Cerca pagina, prodotto o coupon da assegnare come premio"
+
+#: ../admin/insert.php:270
+msgid "Create a graphic template with prizes?"
+msgstr "Crea un template grafico con i premi?"
+
+#: ../admin/insert.php:276 ../admin/insert.php:289 ../admin/insert.php:302
+#: ../admin/insert.php:315 ../admin/insert.php:326
+msgid "Yes"
+msgstr "Sì"
+
+#: ../admin/insert.php:277 ../admin/insert.php:290 ../admin/insert.php:303
+#: ../admin/insert.php:316 ../admin/insert.php:327
+msgid "No"
+msgstr "No"
+
+#: ../admin/insert.php:278
+msgid ""
+"Yes will create automatically a layout with prizes details and number in "
+"main lottery page"
+msgstr ""
+"Sì creerà automaticamente un layout con il dettaglio dei premi ed il numero "
+"nella pagina principale della lotteria"
+
+#: ../admin/insert.php:283
+msgid "Show lottery start/end date?"
+msgstr "Mostra l'inizio/fine della lotteria?"
+
+#: ../admin/insert.php:296
+msgid "Show animation during extraction?"
+msgstr "Mostra animazione durante l'estrazione?"
+
+#: ../admin/insert.php:309
+msgid "Generate order when a product is won?"
+msgstr "Genera un ordine quando un prodotto viene vinto?"
+
+#: ../admin/insert.php:319
+msgid "Move unassigned prizes"
+msgstr "Sposta premi non assegnati"
+
+#: ../admin/insert.php:334
+msgid "Minimum subscribers"
+msgstr "Sottoscrittori minimi"
+
+#: ../admin/insert.php:342
+msgid "Lottery mode"
+msgstr "Modalità lotteria"
+
+#: ../admin/insert.php:356
+msgid "Time lottery"
+msgstr "Lotteria con data casuale"
+
+#: ../admin/insert.php:356
+msgid "Random"
+msgstr "Casuale"
+
+#: ../admin/insert.php:356
+msgid "Prize for all"
+msgstr "Premio per tutti"
+
+#: ../admin/insert.php:372
+msgid "Chance to win"
+msgstr "Possibilità di vincita"
+
+#: ../admin/insert.php:372
+msgid "over 100"
+msgstr "su 100"
+
+#: ../admin/insert.php:381
+msgid "Lottery is active in the following days."
+msgstr "La lotteria è attiva nei seguenti giorni."
+
+#: ../admin/insert.php:442
+msgid "Search product to assign as pass"
+msgstr "Cerca prodotto da assegnare come pass."
+
+#: ../admin/insert.php:445 ../admin/insert.php:476 ../admin/insert.php:507
+#: ../admin/insert.php:544 ../admin/insert.php:598
+msgid "Insert instructions phrase"
+msgstr "Inserisci frase istruzioni"
+
+#: ../admin/insert.php:449 ../admin/insert.php:480 ../admin/insert.php:511
+#: ../admin/insert.php:548 ../admin/insert.php:602
+msgid "Insert access success phrase"
+msgstr "Inserisci frase accesso eseguito con successo"
+
+#: ../admin/insert.php:453 ../admin/insert.php:484 ../admin/insert.php:515
+#: ../admin/insert.php:552 ../admin/insert.php:606
+msgid "Insert thanks but you have not won message"
+msgstr "Inserisci il messaggio \"grazie ma non hai vinto\""
+
+#: ../admin/insert.php:457 ../admin/insert.php:488 ../admin/insert.php:519
+#: ../admin/insert.php:556 ../admin/insert.php:610
+msgid "Insert win message"
+msgstr "Inserisci il messaggio di vincita"
+
+#: ../admin/insert.php:468
+msgid ""
+"How many times per day new registered user can participate to this lottery?"
+msgstr ""
+"Quante volte al giorno un nuovo utente registrato può partecipare a questa "
+"lotteria?"
+
+#: ../admin/insert.php:469
+msgid ""
+"How many times in total new registered user can participate to this lottery?"
+msgstr ""
+"Quante volte in totale un nuovo utente registrato può partecipare a questa "
+"lotteria?"
+
+#: ../admin/insert.php:470
+msgid "Validity duration since user registration(in days)"
+msgstr ""
+"Durata della partecipazione a partire dalla registrazione utente (in giorni)"
+
+#: ../admin/insert.php:472
+msgid "Message to show in registration form"
+msgstr "Messaggio da mostrare nel form registrazione"
+
+#: ../admin/insert.php:494
+msgid "Insert minimum order value"
+msgstr "Inserisci il valore dell'ordine minimo"
+
+#: ../admin/insert.php:497 ../inventive-lottery.php:733
+msgid "How many times per day this pass con be used?"
+msgstr "Quante volte al giorno questa pass può essere utilizzata?"
+
+#: ../admin/insert.php:500 ../inventive-lottery.php:734
+msgid "How many times in total this pass con be used?"
+msgstr "Quante volte in totale questa pass può essere utilizzata?"
+
+#: ../admin/insert.php:503 ../inventive-lottery.php:735
+msgid "Validity duration (in days)"
+msgstr "Durata della validità (in giorni)"
+
+#: ../admin/insert.php:525
+msgid "Search question to use"
+msgstr "Cerca domanda da utilizzare"
+
+#: ../admin/insert.php:532
+msgid "User has to answer to: "
+msgstr "L'utente deve rispondere a:"
+
+#: ../admin/insert.php:533
+msgid "All questions"
+msgstr "Tutte le domande"
+
+#: ../admin/insert.php:534
+msgid "Random question"
+msgstr "Domanda casuale"
+
+#: ../admin/insert.php:541
+msgid "How many times per day user can participate to this lottery?"
+msgstr "Quante volte al giorno l'utente può partecipare a questa lotteria?"
+
+#: ../admin/insert.php:542
+msgid "How many times in total user can participate to this lottery?"
+msgstr "Quante volte in totale l'utente può partecipare a questa lotteria?"
+
+#: ../admin/insert.php:569
+#, php-format
+msgid "Actually there are %1$s codes loaded."
+msgstr "Attualmente ci sono %1$s codici caricati."
+
+#: ../admin/insert.php:571
+msgid "Download codes in CSV format for printing"
+msgstr "Scarica i codici in formato CSV per la stampa"
+
+#: ../admin/insert.php:574
+msgid "Delete codes"
+msgstr "Cancella codici"
+
+#: ../admin/insert.php:581
+msgid "Paste codes (one per line)"
+msgstr "Incolla codici (uno per riga)"
+
+#: ../admin/insert.php:583
+msgid ""
+"Load codes in database (Please be patient if you are loading more than 1.000 "
+"codes at once)"
+msgstr ""
+"Carica codici nel database (Sii paziente se ne stai caricando più di 1.000 "
+"per volta)"
+
+#: ../admin/insert.php:585
+msgid "Auto generate codes"
+msgstr "Genera automaticamente codici"
+
+#: ../admin/insert.php:587
+msgid "How many codes"
+msgstr "Quanti codici"
+
+#: ../admin/insert.php:591
+msgid "Codes length"
+msgstr "Lunghezza codice"
+
+#: ../admin/insert.php:594
+msgid "Generate codes (will past auto generate codes on textarea)"
+msgstr "Genera i codici (incollerà automaticament i codici nell'area di testo)"
+
+#: ../admin/insert.php:627
+msgid "Sender name"
+msgstr "Mittente"
+
+#: ../admin/insert.php:631
+msgid "Sender email"
+msgstr "Email mittente"
+
+#: ../admin/insert.php:635
+msgid "Email subject"
+msgstr "Oggetto email"
+
+#: ../admin/insert.php:639
+msgid "Email message to the winner"
+msgstr "Messaggio email al vincitore"
+
+#: ../admin/insert.php:641
+msgid "Use {COUPON} in the content where you want to display coupon code."
+msgstr ""
+"Utilizza {COUPON} nel contenuto dove vuoi visualizzare il codice del coupon "
+"(in caso di vincita di coupon)"
+
+#: ../admin/insert.php:660
+msgid "Conditions"
+msgstr "Condizioni"
+
+#: ../admin/insert.php:664
+msgid "Age restriction"
+msgstr "Restrizione età"
+
+#: ../admin/insert.php:665
+#, php-format
+msgid "User must be over %1$s years old to participate."
+msgstr "L'utente deve avere più di %1$s anni per partecipare."
+
+#: ../admin/insert.php:668
+msgid "Allowed countries"
+msgstr "Nazioni permesse"
+
+#: ../admin/list-questions.php:65
+msgid "Sponsored questions list"
+msgstr "Elenco domande"
+
+#: ../admin/list-questions.php:70 ../admin/list.php:31
+#: ../admin/lotteries-calendar.php:113
+msgid "Id"
+msgstr "id"
+
+#: ../admin/list-questions.php:72
+msgid "Info"
+msgstr "Info"
+
+#: ../admin/list-questions.php:73
+msgid "Views"
+msgstr "Visualizzazioni"
+
+#: ../admin/list-questions.php:74 ../admin/list.php:33
+#: ../admin/lotteries-calendar.php:119
+msgid "Actions"
+msgstr "Azioni"
+
+#: ../admin/list-questions.php:106
+msgid "Stats"
+msgstr "Statistiche"
+
+#: ../admin/list-questions.php:147 ../admin/list.php:62
+#: ../admin/lotteries-calendar.php:191
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../admin/list-questions.php:148 ../admin/list.php:63
+#: ../admin/lotteries-calendar.php:192
+msgid "Delete"
+msgstr "Cancella"
+
+#: ../admin/list.php:26 ../inventive-lottery.php:666
+msgid "Lotteries listing"
+msgstr "Elenco lotterie"
+
+#: ../admin/list.php:61
+msgid "Duplicate"
+msgstr "Duplica"
+
+#: ../admin/lotteries-calendar.php:108 ../inventive-lottery.php:672
+msgid "Lotteries calendar"
+msgstr "Calendario lotterie"
+
+#: ../admin/lotteries-calendar.php:115
+msgid "Participants"
+msgstr "Partecipanti"
+
+#: ../admin/lotteries-calendar.php:116
+msgid "Winners"
+msgstr "Vincitori"
+
+#: ../admin/lotteries-calendar.php:117
+msgid "Start"
+msgstr "Inizio"
+
+#: ../admin/lotteries-calendar.php:118
+msgid "End"
+msgstr "Fine"
+
+#: ../admin/metabox.php:24
+msgid "None"
+msgstr "Nessuno"
+
+#: ../includes/ajax.php:150
+msgid "codes added with success"
+msgstr "codici inseriti con successo"
+
+#: ../includes/ajax.php:159
+msgid "All codes deleted with success"
+msgstr "Tutti i codici sono stati cancellati con successo"
+
+#: ../includes/classes.php:99
+msgid "Cool! Your access is granted! Click to participate!"
+msgstr "Grande! Il tuo accesso è attivo! Clicca per partecipare"
+
+#: ../includes/classes.php:121
+msgid "Thanks for participating but you have not won. Try next time!"
+msgstr ""
+"Grazie per aver partecipato ma non hai vinto. Riprova la prossima volta!"
+
+#: ../includes/classes.php:143
+msgid "You have won! We sent you a message for confirming your prizes!"
+msgstr ""
+"Hai vinto! Ti abbiamo inviato un messaggio per confermare i tuoi premi!"
+
+#: ../includes/classes.php:163
+#, php-format
+msgid "You won a %1$s!"
+msgstr "Hai vinto un %1$s!"
+
+#: ../includes/classes.php:167
+msgid "You won a discount coupon!"
+msgstr "Hai vinto un buono sconto!"
+
+#: ../includes/classes.php:235 ../includes/classes.php:264
+#: ../includes/classes.php:293 ../includes/classes.php:345
+msgid "You have reached maximum participation times for this lottery"
+msgstr "Hai raggiunto il limite massimo di partecipazioni per questa lotteria"
+
+#: ../includes/classes.php:239 ../includes/classes.php:268
+#: ../includes/classes.php:297 ../includes/classes.php:350
+msgid "You have reached maximum participation times today"
+msgstr "Hai raggiunto il limite massimo di partecipazioni oggi"
+
+#: ../includes/classes.php:558
+msgid "This is the coupon code:"
+msgstr "Questo è il codice del buono sconto:"
+
+#: ../includes/classes.php:587 ../includes/classes.php:590
+msgid "You win"
+msgstr "Hai vinto"
+
+#: ../includes/classes.php:588 ../includes/classes.php:591
+msgid "You lose"
+msgstr "Hai perso"
+
+#: ../includes/classes.php:634
+msgid "We are sorry but we assigned all prizes!"
+msgstr "Spiacenti ma abbiamo già assegnato tutti i premi! "
+
+#: ../includes/classes.php:818
+msgid "We are sorry but your answer is wrong, try next time!"
+msgstr "Spiacenti ma la tua risposta è sbagliata, riprova la prossima volta!"
+
+#: ../includes/classes.php:822
+msgid "We are sorry but your answer is wrong, try again!"
+msgstr "Spiacenti ma la tua risposta è sbagliata, prova ancora!"
+
+#: ../includes/classes.php:882
+msgid "Prize won throught lottery:"
+msgstr "Premio vinto attraverso la lotteria:"
+
+#: ../includes/classes.php:882 ../templates/prizes.php:9
+msgid "no."
+msgstr "n."
+
+#: ../includes/classes.php:882
+msgid "Calendar no."
+msgstr "Calendario n."
+
+#: ../includes/classes.php:919
+msgid "Insert code"
+msgstr "Inserisci codice"
+
+#: ../includes/classes.php:921
+msgid "Send code"
+msgstr "Invia codice"
+
+#: ../includes/classes.php:941
+msgid "We are sorry, but code has been already used"
+msgstr "Spiacenti, ma il codice è stato già usato"
+
+#: ../includes/classes.php:970
+msgid "we are sorry but this code isn't correct"
+msgstr "Spiacenti ma il codice è errato"
+
+#: ../includes/classes.php:1028
+msgid "By clicking on the button for participating, you agree that:"
+msgstr "Cliccando sul bottone per partecipare, dichiari che:"
+
+#: ../includes/classes.php:1030
+#, php-format
+msgid "Your age is over %1$s years old."
+msgstr "La tua età è superiore a %1$s anni."
+
+#: ../includes/classes.php:1031
+msgid "The country you are participating from is one of these:"
+msgstr "La nazione da cui stai partecipando è una di queste:"
+
+#: ../includes/classes.php:1033
+msgid "You have read the conditions"
+msgstr "Hai letto le condizioni"
+
+#: ../includes/classes.php:1082
+msgid "Discount coupon"
+msgstr "Buono sconto"
+
+#: ../includes/lottery-content.php:19 ../includes/widget-micro.php:17
+msgid "There is no lottery active right now"
+msgstr "Non c'è nessuna lotteria attiva adesso"
+
+#: ../includes/lottery-content.php:31
+#, php-format
+msgid "Starts %1$s / Ends %2$s"
+msgstr "Inizia il %1$s / Finisce il %2$s"
+
+#: ../includes/lottery-content.php:51
+msgid "Just"
+msgstr "Solo"
+
+#: ../includes/lottery-content.php:53 ../includes/widget-micro.php:44
+msgid "at the end of the lottery"
+msgstr "alla fine di questa estrazione"
+
+#: ../includes/lottery-content.php:59
+msgid "Participate now"
+msgstr "Partecipa adesso"
+
+#: ../includes/widget_construct.php:10
+msgid "inventiveLottery widget"
+msgstr ""
+
+#: ../includes/widget_construct.php:11
+msgid "Widget front end per la visualizzazione dei lotteries"
+msgstr ""
+
+#: ../includes/widget_construct.php:46
+msgid "New title"
+msgstr "Nuovo titolo"
+
+#: ../includes/widget_construct.php:54
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../includes/widget_construct.php:77
+msgid "Target page"
+msgstr "Pagina di destinazione:"
+
+#: ../inventive-lottery.php:477
+msgid "X Close"
+msgstr "X Chiudi"
+
+#: ../inventive-lottery.php:558
+#, php-format
+msgid "Spend %1$s %3$s and you get access to %2$s lottery!"
+msgstr "Spendi %1$s %3$s ed ottieni l'accesso alla lotteria %2$s!"
+
+#: ../inventive-lottery.php:562
+#, php-format
+msgid ""
+"Compliments! If you complete your order you'll get access to %1$s lottery!"
+msgstr ""
+"Complimenti! Se completi il tuo ordine otterrai l'accesso alla loteria %1$s!"
+
+#: ../inventive-lottery.php:664
+msgid "Inventive Lottery"
+msgstr "Inventive lotteries and giveaways"
+
+#: ../inventive-lottery.php:669
+msgid "Insert lottery"
+msgstr "Inserisci lotteria"
+
+#: ../inventive-lottery.php:678
+msgid "Questions"
+msgstr "Domande"
+
+#: ../inventive-lottery.php:681
+msgid "Edit/Insert question"
+msgstr "Modifica/inserisci domanda"
+
+#: ../inventive-lottery.php:732
+msgid "Is this a lottery pass?"
+msgstr "E' un pass per la lotteria?"
+
+#: ../templates/prizes.php:1
+#, php-format
+msgid "There are <span class=\"ivl_no_h1\">%1$s</span> prizes to win!"
+msgstr "Ci sono <span class=\"ivl_no_h1\">%1$s</span> premi da vincere!"
+
+#: ../templates/prizes.php:15
+msgid "Prize value"
+msgstr "Valore del premio"
