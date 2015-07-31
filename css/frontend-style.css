@@ -1,0 +1,514 @@
+/*
+Inventive lotteries and giveaways
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License, version 2, as
+published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA02110-1301USA
+
+*/
+.description-lottery {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    padding-right: 20px;
+}
+.inventive_lottery-image-question {
+    width: 50%;
+    margin: 0 auto;
+}
+.ivl-count-container {
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+    float: left;
+    margin-top: 15px;
+	margin-bottom: 2%;
+}
+#ivl-count {
+font-size: 24px;
+  margin: 0;
+  line-height: 51px;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 55px;
+  margin-top: 2%;
+}
+
+.ivl-count-micro .countdown-amount
+{
+  font-size: 25px;
+  line-height: 42px;	
+}
+
+.winner-precedente-lottery {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+#chiudi-inventive_lottery {
+  float: right;
+  margin-top: -30px;
+  margin-right: -20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  width: 100%;
+  text-align: right;
+  font-size: 15px;
+}
+.ivl-participate-now-step-2 {
+    display: none;
+}
+.ivl-participate-now {
+    cursor: pointer !important;
+}
+.overlay-inventive-lottery {
+  width: 50%;
+  background: #fff;
+  position: fixed;
+  top: 20%;
+  left: 45%;
+  margin-left: -25%;
+  border: 2% solid #ccc;
+  padding: 5%;
+  display: none;
+  z-index: 999999999999;
+}
+
+.overlay-inventive-lottery input
+{
+border: 1px solid #ccc;	
+}
+#inventive_lottery-alert-answer {
+    color: red;
+    margin-bottom: 10px;
+}
+.partecipazione-lottery {
+    cursor: pointer;
+}
+.ivl-participate-now {
+    cursor: pointer;
+    width: 40%;
+    float: left;
+    text-align: center;
+    background: #e67b2f;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    margin-top: 5px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.partecipazione-lottery {
+    cursor: pointer;
+    width: 40%;
+    text-align: center;
+    background: #e67b2f;
+    padding: 10px;
+    color: white;
+    font-size: 23px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.inventive_lottery-testo-question {
+    margin-bottom: 5px;
+    color: #00538f;
+}
+#inventive_lottery_answer {
+    margin: 20px;
+    width: 95%;
+    color: #ccc;
+    font-style: italic;
+}
+#inventive_lottery_invia_answer {
+    background: #e67b2f;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.inventive_lottery-testo-aiuto {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.partecipazione-lottery:hover {
+    background: #ccc;
+}
+.ivl-participate-now:hover {
+    background: #ccc;
+}
+#inventive_lottery-caricamento {
+    text-align: center;
+    font-size: 23px;
+}
+#overlay-inventive_lottery-contenitore {
+    font-size: 22px;
+    text-align: center;
+}
+.ivl-count-container-micro {
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+.ivl-count-container-micro .is-countdown
+{
+  width: 100%;
+  height: 47px;
+  font-size: 15px;
+  margin-top: 7px;	
+}
+
+.ivl-count-container-micro .countdown-section
+{
+  width: 24.3% !important;
+}
+
+.ivl-count-container-micro .countdown-amount
+{
+  font-size: 25px;
+  line-height: 44px;
+  height: 43px;
+}
+.ivl-count-container-micro .countdown-period
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+  
+
+#ivl-count-micro {
+  font-size: 24px;
+  margin: 0;
+  line-height: 35px;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+  height: 42px;
+}
+
+.ivl-micro-container,
+.ivl-count-container-micro
+{
+cursor: pointer !important;	
+}
+
+#ivl-count-micro .countdown-amount {
+  height: 42px;	
+}
+.title-lottery-micro {
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background: #e67b2f;
+    margin-top: 0px;
+    padding: 5px;
+}
+.contenitore-inventive_lottery-micro {
+    background: white;
+    width: 99%;
+    float: left;
+    margin-top: -36px;
+    cursor: pointer;
+    height: 98%;
+    border: 3px solid #e67b2f;
+    height: 173px;
+}
+.inventive_lottery-image-question img {
+    /*max-height:400px;*/
+    /*max-width:50%*/
+    
+    width: 100%;
+}
+.inventive_lottery-banner-sponsorizzato {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ada59f;
+}
+.inventive_lottery-msg-pass-attiva {
+    margin-bottom: 10px;
+    color: red;
+}
+
+.ivl-register-message
+{
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 10px;	
+}
+
+.ivl-cart-message
+{
+	 border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 10px;	
+}
+
+.ivl-send-code
+{
+background: #ccc;
+cursor: pointer;
+padding: 10px;
+text-align: center;	
+}
+
+.ivl_conditions_content
+{
+display:none;	
+	
+}
+
+.ivl_participation_rules_container
+{
+padding: 10px;
+margin:10px;	
+}
+
+.image-lottery
+{
+width: 100%;	
+}
+
+.ivl_clear
+{
+clear:both;	
+}
+
+.ivl_prize_to_win
+{
+float: left;
+padding: 10px;
+width: 32%;
+margin-bottom: 10px;
+margin-right: 2%;
+box-sizing: border-box;
+
+}
+             
+.ivl_prizes_to_win .ivl_prize_to_win:nth-child(3)
+{
+margin-right: 0;
+}
+
+.ivl_prize_total
+{
+float: left;
+  border-radius: 100px;
+  background-color: red;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  color: wheat;
+  line-height: 68px;
+  box-sizing: border-box;
+  box-shadow: 4px 4px rgba(0,0,0,0.5);
+  text-shadow: 2px 2px rgba(0,0,0,0.3);
+  margin-right: 10px;
+}
+
+.ivl_no
+{
+font-size: 20px;	
+}
+
+.ivl_prize_name
+{
+  font-size: 23px;
+  font-weight: 600;
+  color: orange;
+  line-height: 34px;
+  text-shadow: 2px 2px rgba(0,0,0,0.1);	
+}
+
+.ivl_prize_to_win_title,
+.title-lottery
+{
+  font-size: 40px;
+  color: #444;
+  text-shadow: 2px 2px rgba(255,255,255,0.9);
+  font-weight: 600;
+  margin-bottom: 1%;
+  clear: left;	
+}
+
+.ivl_prizes_to_win
+{
+float: left;
+  height: 100%;
+  padding: 2%;
+  background-color: rgba(255,255,255,0.6);
+  margin-bottom: 20px;	
+  width: 96%;
+}
+
+.ivl_prize_details
+{
+  float: left;
+  clear: both;
+  padding: 5px;
+  width: 100%;
+  margin-top: 10px;	
+}
+
+.ivl_prize_description
+{
+  font-weight: 600;
+  font-size: 19px;
+  color: #666;	
+}
+
+.ivl_no_h1
+{
+color: red;	
+}
+
+.ivl_prize_image img
+{
+width: 100%;
+border: 2px solid #ddd;
+}
+
+.title-lottery
+{
+float: left;	
+}
+
+.ivl_lottery_show_date
+{
+float: right;
+  font-size: 14px;
+  border: 1px solid #666;
+  padding: 2%;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+
+.ivl_at_the_end_of_lottery
+{
+display: block;
+clear: both;	
+}
+
+#ivl_slot {
+	width:100%;
+	height: 140px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+	font-size: 100px;
+	font-weight: 600;
+}
+#ivl_slot > * {
+	padding: 0px 0px;
+}
+
+.line{
+	background-color: #DCD293;
+	padding: 50px 0px 25px 0px;
+	width:100%;
+	border-top: 20px dotted #A48E4E;
+}
+
+
+
+.machineContainer{
+	background-color: #000;
+	padding: 5px 1px 5px 1px;
+	overflow: hidden;
+	height: 135px;
+}
+.slotMachine{
+	width: 32.333333%;
+	border: 5px solid #000;
+	height: 100px;
+	padding: 0px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+	/*margin: 0px 5px;*/
+	/*border: 5px solid #000;*/
+	background-color: #ffffff;
+}
+.machineResult{
+	color:#fff;
+	text-align:center;
+	font-weight: 900;
+}
+.noBorder{
+	border:none !important;
+	background: transparent !important;
+}
+.slotMachine .slot{
+	height:100px;
+	background-position-x: 55%;
+	background-repeat: no-repeat;
+}
+
+.ivl_response_container
+{
+display: none;	
+}
+
+.ivl_response_container_show
+{
+}
+
+.slotMachineContainer div:nth-child(odd)
+{
+color: green;	
+}
+
+.slotMachineContainer div:nth-child(even) 
+{
+color: red;	
+}
+
+.ivl_win_details
+{
+margin-top: 2%;	
+}
+
+.slotMachineContainer .ivl_slot_win
+{
+color: green !important;	
+}
+
+.slotMachineContainer .ivl_slot_lose
+{
+color: red !important;	
+}
+
+.contenitore-question img
+{
+	width: 100%;
+}
+
+.widget-micro-title
+{
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;	
+}
+
+
