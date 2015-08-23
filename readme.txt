@@ -4,7 +4,7 @@ Donate link: http://1nventive.it/
 Tags: wordpress lottery, wordpress lotteries, wordpress giveaway, wordpress giveaways, wordpress sweepstake, wordpress sweepstakes, woocommerce lottery, woocommerce lotteries, woocommerce giveaway, woocommerce giveaways, woocommerce sweepstake, woocommerce sweepstakes
 Requires at least: 3.8
 Tested up to: 4.3
-Stable tag: 1
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Inventive lotteries and giveaways
+Plugin Name: Inventive lotteries and giveaways lite
 Description: Inventive lotteries and giveaways is the perfect tool to boost your sales and customer fidelity in your online blog, website or shop.
-Version: 1.0
+Version: 1.01
 Author: 1nventive (Francesco Puglisi)
 Author URI: http://www.1nventive.it
 License: GPL2
